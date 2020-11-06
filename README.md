@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js and Typescript based microservices
 - 💬 Ask me about API design
 - 📫 How to reach me: [@alsoknownasdrew](https://twitter.com/alsoknownasdrew) on Twitter
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a toy poodle named [Arthur](https://www.instagram.com/archieandale/)

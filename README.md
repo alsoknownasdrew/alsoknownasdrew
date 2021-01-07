@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about API design
 - 📫 How to reach me: [@alsoknownasdrew](https://twitter.com/alsoknownasdrew) on Twitter
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a toy poodle named [Arthur](https://www.instagram.com/archieandale/)
+- ⚡ Fun fact: I live with a toy poodle named [Arthur](https://www.instagram.com/archieandale/)

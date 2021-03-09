@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on API related things at [Facile.it](https://github.com/facile-it)
+- 🔭 I work on API related things at [Facile.it](https://github.com/facile-it)
 - 🌱 I’m currently learning Node.js, Typescript and Kubernetes
 - 💬 Ask me about API design and microservices architecture
 - 📫 How to reach me: [@alsoknownasdrew](https://twitter.com/alsoknownasdrew) on Twitter
